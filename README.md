@@ -25,3 +25,6 @@ See https://support.apple.com/kb/HT2509 for information
 See https://www.linuxjournal.com/content/installing-fonts-linux for information
 
 With images: https://web.archive.org/web/20160809235656/http://www.linuxjournal.com/content/installing-fonts-linux
+
+# Other info when using this font
+If All-Caps is enabled, use U+03A2 instead of typing a final Sigma as I have no control over what glyphs change into within FontForge if All-Caps text is enabled: ΢
