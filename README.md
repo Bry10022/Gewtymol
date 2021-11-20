@@ -16,7 +16,7 @@ The .sfd file is available if anyone wants to make changes.
 ## All Windows versions
 - Drag and drop (or copy and paste) the font file to the folder C:\Windows\Fonts
 
-If you want to temporarily install a font, just Double-click the font file and you can use it in your applications (Microsoft Word, Adobe Photoshop, etc.) while it is left open. To uninstall the font, close the Font Viewer. Please not that this may not be true depending on the version of Windows you have installed
+If you want to temporarily install a font, just Double-click the font file and you can use it in your applications (Microsoft Word, Adobe Photoshop, etc.) while it is left open. To uninstall the font, close the Font Viewer. Please note that this may not be true depending on the version of Windows you have installed
 
 # Installing fonts on a Mac
 See https://support.apple.com/kb/HT2509 for information
