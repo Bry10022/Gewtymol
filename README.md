@@ -1,6 +1,8 @@
 # Gewtymol
 Gewtymol is an Open Source Font that I have created.
 
+The .sfd file is available if anyone wants to make changes.
+
 # How to install fonts on Windows
 ## Windows 10, Windows 8, Windows 7 or Windows Vista
 - Right-click on the font and choose Install. Or, you can open the font in the default Windows font viewer and click the Install button
