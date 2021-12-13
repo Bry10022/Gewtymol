@@ -3,6 +3,8 @@ Gewtymol is an Open Source Font that I have created.
 
 The .sfd file is available if anyone wants to make changes.
 
+To ensure you get the latest version of this font, make sure it is downloaded from https://github.com/Bry10022/Gewtymol
+
 # How to install fonts on Windows
 ## Windows 10, Windows 8, Windows 7, or Windows Vista
 - Right-click on the font and choose Install. Or, you can open the font in the default Windows font viewer and click the Install button
@@ -27,4 +29,4 @@ See https://www.linuxjournal.com/content/installing-fonts-linux for information
 With images: https://web.archive.org/web/20160809235656/http://www.linuxjournal.com/content/installing-fonts-linux
 
 # Other info when using this font
-If All-Caps is enabled, use U+03A2 instead of typing a final Sigma as I have no control over what glyphs change into within FontForge if All-Caps text is enabled: ΢
+- If All-Caps is enabled, use U+03A2 instead of typing a final Sigma as I have no control over what glyphs change into within FontForge if All-Caps text is enabled: ΢
